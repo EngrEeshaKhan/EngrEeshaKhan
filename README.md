@@ -48,3 +48,23 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-009688?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+
+### 🟢 RAG Chatbot – AI-Powered Document Q&A
+
+---
+
+**💡 Problem:**  
+Traditional chatbots struggle to answer accurately from custom documents without retraining.
+
+**🛠 Approach / Technologies:**  
+- LangChain (RAG pipeline)  
+- MiniLM Embeddings & FAISS for semantic search  
+- Llama 3.1 (Ollama) for answer generation  
+- FastAPI backend & HTML/CSS/JS frontend  
+- Docker for containerized deployment
+
+**🚀 Outcome / Impact:**  
+Users can upload PDFs and receive accurate, context-aware answers in real-time, improving document interaction and retrieval efficiency.
+
+**🔗 Project Link:** [GitHub](https://github.com/EngrEeshaKhan/rag-chatbot)
+
