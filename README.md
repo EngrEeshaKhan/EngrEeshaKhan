@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <img width="80" height="120" alt="fhvbfd" src="https://github.com/user-attachments/assets/071223dc-60ae-4c0f-a285-93727ff91a5e" />
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<img width="80" height="100" alt="hdshb" src="https://github.com/user-attachments/assets/84fcd0d3-9f13-4c67-8d1b-de7d57a07dd6" />
+<img width="80" height="20" alt="hdshb" src="https://github.com/user-attachments/assets/84fcd0d3-9f13-4c67-8d1b-de7d57a07dd6" />
 
 
 ### Machine Learning & AI
