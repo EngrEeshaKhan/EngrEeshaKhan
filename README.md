@@ -49,19 +49,26 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ![Google Colab](https://img.shields.io/badge/Colab-009688?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
-### 🟢 RAG Chatbot – AI-Powered Document Q&A
+## Projects
+<div style="border:2px solid #2f7a2f; border-radius:12px; padding:20px; margin:20px 0; background-color:#f9fff7; max-width:700px;">
+  <h2 style="color:#2f7a2f; margin-bottom:10px;">RAG Chatbot – AI-Powered Document Q&A</h2>
 
----
+  <p><strong>💡 Problem:</strong> Traditional chatbots struggle to answer accurately from custom documents without retraining.</p>
 
-**💡 Problem:**  
-Traditional chatbots struggle to answer accurately from custom documents without retraining.
+  <p><strong>🛠 Approach / Technologies:</strong></p>
+  <ul>
+    <li>LangChain (RAG pipeline)</li>
+    <li>MiniLM Embeddings & FAISS for semantic search</li>
+    <li>Llama 3.1 (Ollama) for answer generation</li>
+    <li>FastAPI backend & HTML/CSS/JS frontend</li>
+    <li>Docker for containerized deployment</li>
+  </ul>
 
-**🛠 Approach / Technologies:**  
-- LangChain (RAG pipeline)  
-- MiniLM Embeddings & FAISS for semantic search  
-- Llama 3.1 (Ollama) for answer generation  
-- FastAPI backend & HTML/CSS/JS frontend  
-- Docker for containerized deployment
+  <p><strong>🚀 Outcome / Impact:</strong> Users can upload PDFs and receive accurate, context-aware answers in real-time, improving document interaction and retrieval efficiency.</p>
+
+  <p><strong>🔗 Project Link:</strong> <a href="https://github.com/EngrEeshaKhan/rag-chatbot" target="_blank">GitHub</a></p>
+</div>
+
 
 **🚀 Outcome / Impact:**  
 Users can upload PDFs and receive accurate, context-aware answers in real-time, improving document interaction and retrieval efficiency.
