@@ -19,11 +19,11 @@
 
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-150458?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0E3441?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-5C3EE8?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-00599C?style=for-the-badge)
 
 **Deep Learning & NLP:** BERT, DeBERTa, CNNs, RNNs  
 **LLMs & GenAI:** LangChain, Ollama, Groq API
