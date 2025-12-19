@@ -8,7 +8,7 @@
 <h3>Programming Languages</h3>
 
 <p align="left">
-  <img src="assets/icons/python.svg" width="55" style="border-radius:50%; padding:8px; background:#f5f5f5; margin:6px;" />
+  <img src="assets/icons/python.sv" width="55" style="border-radius:50%; padding:8px; background:#f5f5f5; margin:6px;" />
   <img src="assets/icons/cpp.svg" width="55" style="border-radius:50%; padding:8px; background:#f5f5f5; margin:6px;" />
   <img src="assets/icons/html.svg" width="55" style="border-radius:50%; padding:8px; background:#f5f5f5; margin:6px;" />
   <img src="assets/icons/css.svg" width="55" style="border-radius:50%; padding:8px; background:#f5f5f5; margin:6px;" />
