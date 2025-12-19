@@ -50,21 +50,60 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 
 ## Projects
-<div style="border:2px solid #2f7a2f; border-radius:12px; padding:20px; margin:20px 0; background-color:#f9fff7; max-width:700px;">
-  <h2 style="color:#2f7a2f; margin-bottom:10px;">RAG Chatbot – AI-Powered Document Q&A</h2>
-
+<div class="project-card">
+  <h2>RAG Chatbot – AI-Powered Document Q&A</h2>
   <p><strong>💡 Problem:</strong> Traditional chatbots struggle to answer accurately from custom documents without retraining.</p>
-
+  
   <p><strong>🛠 Approach / Technologies:</strong></p>
   <ul>
     <li>LangChain (RAG pipeline)</li>
     <li>MiniLM Embeddings & FAISS for semantic search</li>
     <li>Llama 3.1 (Ollama) for answer generation</li>
     <li>FastAPI backend & HTML/CSS/JS frontend</li>
-    <li>Docker for containerized deployment</li>
+    <li>Docker containerization</li>
   </ul>
-
+  
   <p><strong>🚀 Outcome / Impact:</strong> Users can upload PDFs and receive accurate, context-aware answers in real-time, improving document interaction and retrieval efficiency.</p>
+  
+  <a href="https://github.com/EngrEeshaKhan/rag-chatbot" class="project-link" target="_blank">View Project</a>
+</div>
+
+<style>
+.project-card {
+  border: 2px solid #2f7a2f;
+  border-radius: 15px;
+  background: #f9fff7;
+  padding: 20px;
+  max-width: 450px;
+  margin: 20px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+.project-card h2 {
+  color: #2f7a2f;
+  margin-bottom: 10px;
+}
+.project-card ul {
+  margin-left: 20px;
+}
+.project-link {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 15px;
+  background-color: #2f7a2f;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+.project-link:hover {
+  background-color: #1f4f1f;
+}
+</style>
+
 
   <p><strong>🔗 Project Link:</strong> <a href="https://github.com/EngrEeshaKhan/rag-chatbot" target="_blank">GitHub</a></p>
 </div>
