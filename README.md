@@ -37,7 +37,7 @@
 
 ### Web, APIs & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-C3EE8?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-0E3441?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & Platforms
