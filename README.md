@@ -1,4 +1,4 @@
-**## About Me**
+## **About Me**
 
 Hi, I’m **Eesha Khan**, a PEC Level 2 Software Engineer specializing in **Machine Learning, AI, and Data Science**. I build intelligent systems and data-driven solutions that address complex, real-world challenges, including predictive models, AI-powered applications, and scalable data pipelines.
 
