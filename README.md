@@ -11,8 +11,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <img width="80" height="120" alt="images" src="https://github.com/user-attachments/assets/65a4c5c1-7343-4a1b-a3fc-0b3e2c0041c7" />
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img width="80" height="120" alt="cghsdvg" src="https://github.com/user-attachments/assets/59bf2b96-354d-4010-931c-fe54742c1731" />
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img width="80" height="120" alt="fhvbfd" src="https://github.com/user-attachments/assets/071223dc-60ae-4c0f-a285-93727ff91a5e" />
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img width="80" height="120" alt="hdshb" src="https://github.com/user-attachments/assets/84fcd0d3-9f13-4c67-8d1b-de7d57a07dd6" />
 
 
 ### Machine Learning & AI
