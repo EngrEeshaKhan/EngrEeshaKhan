@@ -12,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/b35ecada-3476-46f7-8ec3-dc5cd877393b" />
+<img width="1200" height="1200" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/7f89ba77-4784-4052-bd4e-d96bfdaedb18" />
 
 
 
