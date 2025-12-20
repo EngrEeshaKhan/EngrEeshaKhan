@@ -88,7 +88,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Link:** https://github.com/EngrEeshaKhan/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models
 
 
-![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-000000?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-11557C?style=for-the-badge)
 
 ### Automated Essay Scoring (AES)
 
