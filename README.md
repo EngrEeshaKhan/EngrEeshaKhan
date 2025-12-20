@@ -88,7 +88,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Link:** 
 
 
-![Natural Language Processing](https://img.shields.io/badge/NLP-000000?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-000000?style=for-the-badge)
 
 ### Automated Essay Scoring (AES)
 
