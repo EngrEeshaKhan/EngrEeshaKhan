@@ -54,7 +54,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 ### RAG Chatbot – Document Question Answering
 **Problem:** Users cannot reliably query and extract information from large PDF documents using standard chatbots.  
-**Approach:** Applied Retrieval-Augmented Generation to retrieve & generate relevant document context. 
+**Approach:** Applied Retrieval-Augmented Generation to retrieve and generate relevant document context.  
 **Outcome:** Enabled accurate, context-aware question answering over uploaded documents.  
 **Link:** https://github.com/EngrEeshaKhan/rag-chatbot
 
@@ -79,4 +79,21 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Approach:** Applied deep learning models to classify protein structures from 3D tomographic data.  
 **Outcome:** Enabled scalable and automated biological structure analysis.  
 **Link:** https://github.com/EngrEeshaKhan/CZII-CryoET-Object-Identification
+
+### Melanoma Detection Using Hybrid Features
+
+**Problem:** Early melanoma detection from skin images is challenging due to subtle visual differences.  
+**Approach:** Applied DIP and handcrafted feature extraction followed by ML classification.  
+**Outcome:** Improved accuracy and reliability of melanoma detection.  
+**Link:** 
+
+
+![Natural Language Processing](https://img.shields.io/badge/NLP-000000?style=for-the-badge)
+
+### Automated Essay Scoring (AES)
+
+**Problem:** Manual essay grading is time-consuming and inconsistent.  
+**Approach:** Used NLP-based models to evaluate essays based on structure, coherence, and semantic quality.  
+**Outcome:** Produced automated scores closely aligned with human evaluation.  
+**Link:** 
 
