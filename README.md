@@ -49,5 +49,11 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ![Google Colab](https://img.shields.io/badge/Colab-009688?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
+## Projects
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
 
-
+### RAG Chatbot – Document Question Answering
+Problem: Users cannot reliably query and extract information from large PDF documents using standard chatbots.
+Approach: Used Retrieval-Augmented Generation to retrieve relevant document content before generating responses with a language model.
+Outcome: Enabled accurate, context-aware question answering over uploaded documents.
+Link: 
