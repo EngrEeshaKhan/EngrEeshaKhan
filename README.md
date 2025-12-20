@@ -59,4 +59,4 @@ Approach: Used Retrieval-Augmented Generation to retrieve relevant document cont
 
 Outcome: Enabled accurate, context-aware question answering over uploaded documents.
 
-Link: 
+
