@@ -64,3 +64,17 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Outcome:** Reduced email drafting time while improving message clarity and professionalism.  
 **Link:** https://github.com/EngrEeshaKhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
 
+![ML](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
+### Child Mind Institute – Problematic Internet Use Prediction
+
+Problem: Early indicators of problematic internet use in children are difficult to detect manually.
+Approach: Built a predictive model using behavioral and physical activity data.
+Outcome: Supported early identification and intervention for healthier digital habits.
+Link: 
+
+### CZII CryoET – Protein Complex Identification
+
+Problem: Manual identification of protein complexes in cryo-electron tomography data is slow and inefficient.
+Approach: Applied deep learning models to classify protein structures from 3D tomographic data.
+Outcome: Enabled scalable and automated biological structure analysis.
+Link: 
