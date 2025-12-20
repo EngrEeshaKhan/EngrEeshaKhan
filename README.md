@@ -53,10 +53,14 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
 
 ### RAG Chatbot – Document Question Answering
-Problem: Users cannot reliably query and extract information from large PDF documents using standard chatbots.
+**Problem:** Users cannot reliably query and extract information from large PDF documents using standard chatbots.  
+**Approach:** Applied Retrieval-Augmented Generation to retrieve relevant document context before generating responses with a language model.  
+**Outcome:** Enabled accurate, context-aware question answering over uploaded documents.  
+**Link:** https://github.com/EngrEeshaKhan/rag-chatbot
 
-Approach: Used Retrieval-Augmented Generation to retrieve relevant document content before generating responses with a language model.
+### AI-Powered Cold Email Generator
+Problem: Writing professional outreach emails is time-consuming for job seekers and freelancers.
 
-Outcome: Enabled accurate, context-aware question answering over uploaded documents.
-Link: https://github.com/EngrEeshaKhan/rag-chatbot
+Approach: Used a large language model to generate structured cold emails from user input.
 
+Outcome: Reduced email drafting time while improving message clarity and professionalism.
