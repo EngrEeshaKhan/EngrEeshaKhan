@@ -85,7 +85,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Problem:** Early melanoma detection from skin images is challenging due to subtle visual differences.  
 **Approach:** Applied DIP and handcrafted feature extraction followed by ML classification.  
 **Outcome:** Improved accuracy and reliability of melanoma detection.  
-**Link:** 
+**Link:** https://github.com/EngrEeshaKhan/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models
 
 
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-000000?style=for-the-badge)
@@ -95,5 +95,5 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Problem:** Manual essay grading is time-consuming and inconsistent.  
 **Approach:** Used NLP-based models to evaluate essays based on structure, coherence, and semantic quality.  
 **Outcome:** Produced automated scores closely aligned with human evaluation.  
-**Link:** 
+**Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0
 
