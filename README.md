@@ -58,5 +58,5 @@ Problem: Users cannot reliably query and extract information from large PDF docu
 Approach: Used Retrieval-Augmented Generation to retrieve relevant document content before generating responses with a language model.
 
 Outcome: Enabled accurate, context-aware question answering over uploaded documents.
-
+Link: https://github.com/EngrEeshaKhan/rag-chatbot
 
