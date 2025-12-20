@@ -54,7 +54,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 ### RAG Chatbot – Document Question Answering
 **Problem:** Users cannot reliably query and extract information from large PDF documents using standard chatbots.  
-**Approach:** Applied Retrieval-Augmented Generation to retrieve relevant document context before generating responses with a language model.  
+**Approach:** Applied Retrieval-Augmented Generation to retrieve & generate relevant document context. 
 **Outcome:** Enabled accurate, context-aware question answering over uploaded documents.  
 **Link:** https://github.com/EngrEeshaKhan/rag-chatbot
 
@@ -78,5 +78,5 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Problem:** Manual identification of protein complexes in cryo-electron tomography data is slow and inefficient.  
 **Approach:** Applied deep learning models to classify protein structures from 3D tomographic data.  
 **Outcome:** Enabled scalable and automated biological structure analysis.  
-**Link:** 
+**Link:** https://github.com/EngrEeshaKhan/CZII-CryoET-Object-Identification
 
