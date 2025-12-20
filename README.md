@@ -50,7 +50,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 
 ## Projects
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/AI-000000?style=for-the-badge)
 
 ### RAG Chatbot – Document Question Answering
 **Problem:** Users cannot reliably query and extract information from large PDF documents using standard chatbots.  
