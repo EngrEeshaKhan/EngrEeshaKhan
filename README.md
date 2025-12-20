@@ -59,8 +59,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Link:** https://github.com/EngrEeshaKhan/rag-chatbot
 
 ### AI-Powered Cold Email Generator
-Problem: Writing professional outreach emails is time-consuming for job seekers and freelancers.
-
-Approach: Used a large language model to generate structured cold emails from user input.
-
-Outcome: Reduced email drafting time while improving message clarity and professionalism.
+**Problem:** Writing professional outreach emails is time-consuming for job seekers and freelancers.
+**Approach:** Used a large language model to generate structured cold emails from user input.
+**Outcome:** Reduced email drafting time while improving message clarity and professionalism.
+**Link:**
