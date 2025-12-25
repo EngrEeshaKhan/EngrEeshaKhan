@@ -132,11 +132,11 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 ## Commissioned / Paid Research Work
 
-### Hybrid Blockchain–AI Framework for Real-Time Semantic Data Integrity and Access Control in 6G-Enabled IoT Networks
+1. Hybrid Blockchain–AI Framework for Real-Time Semantic Data Integrity and Access Control in 6G-Enabled IoT Networks
 
-### AI-Based Electricity Billing Forecasting and Consumer Classification Using Behavioral Markers
+2. AI-Based Electricity Billing Forecasting and Consumer Classification Using Behavioral Markers
 
-### Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing (NLP)
+3. Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing (NLP)
 
 
 
