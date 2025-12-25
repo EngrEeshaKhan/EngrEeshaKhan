@@ -97,3 +97,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Outcome:** Produced automated scores closely aligned with human evaluation.  
 **Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0
 
+---
+
+## Research & Academic Work
+
