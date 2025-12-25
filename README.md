@@ -99,5 +99,5 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 ---
 
-## Research & Academic Work
+
 
