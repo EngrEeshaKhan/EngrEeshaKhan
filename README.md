@@ -97,7 +97,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Outcome:** Produced automated scores closely aligned with human evaluation.  
 **Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0
 
----
+
 ## Research & Academic Work
 
 ### Meta-Analysis of Machine Learning Methods for Fruit Quality Prediction
@@ -105,35 +105,30 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Methods:** Support Vector Machines (SVM), Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN)  
 **Status:** Published  
 
----
 
 ### Leveraging AI to Predict Problematic Internet Use in Children and Adolescents Through Physical Fitness Indicators
 **Research Area:** Artificial Intelligence, Healthcare Analytics  
 **Methods:** CatBoost, XGBoost, LightGBM, Ensemble Learning  
 **Status:** Draft (IEEE Format)  
 
----
 
 ### Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset
 **Research Area:** Digital Twin Technology, Biomedical Signal Processing  
 **Methods:** Sparse Identification of Nonlinear Dynamics (SINDy), Physics-Informed Neural Networks (PINN)  
 **Status:** Academic Research  
 
----
 
 ### Enhancing Automated Essay Scoring: A Comparative Study of Deep Learning and Traditional Models
 **Research Area:** Natural Language Processing, Educational AI  
 **Methods:** Linear Regression, XGBoost, LightGBM, LSTM, BERT  
 **Status:** Draft  
 
----
 
 ### CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation
 **Research Area:** Computer Vision, Medical Imaging  
 **Methods:** YOLO-based Deep Learning, 3D Tomographic Analysis  
 **Status:** Draft  
 
----
 
 ## Commissioned / Paid Research Work
 
