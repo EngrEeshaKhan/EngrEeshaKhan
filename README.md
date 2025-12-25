@@ -99,10 +99,6 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 
 ## Research & Academic Work
-![Overleaf](https://img.shields.io/badge/Overleaf-0073A8?style=for-the-badge&logo=overleaf&logoColor=white)
-![Mendeley](https://img.shields.io/badge/Mendeley-0082C8?style=for-the-badge&logo=mendeley&logoColor=white)
-## Research Tools
-
 ![Overleaf](https://img.shields.io/badge/Overleaf-1F9D55?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Mendeley](https://img.shields.io/badge/Mendeley-D2232A?style=for-the-badge&logo=mendeley&logoColor=white)
 
