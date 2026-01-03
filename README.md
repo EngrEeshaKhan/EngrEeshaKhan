@@ -97,6 +97,31 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Outcome:** Produced automated scores closely aligned with human evaluation.  
 **Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0
 
+## Internships
+![Machine Learning Internship](https://img.shields.io/badge/Machine%20Learning-Internship-blue)
+
+**Role:** ML Intern  
+**Organization:** Ezitech Institute Rawalpindi
+
+**Duration:** June 2025 – August 2025  
+
+**Responsibilities / Achievements:**  
+- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.  
+- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.  
+- Built, fine-tuned, and validated machine learning models for real-world applications.  
+- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.  
+
+![Web Development Internship](https://img.shields.io/badge/Web%20Development-Internship-purple)
+
+**Role:** Web Developer Intern  
+**Organization:** EzeeSol Technology Rawalpindi
+
+**Duration:** [June 2024 – August 2024]  
+
+**Responsibilities / Achievements:**  
+- Assisted in front-end and back-end development for web applications.  
+- Gained experience in [e.g., HTML, CSS, JavaScript, PHP].  
+
 
 ## Research & Academic Work
 ![Overleaf](https://img.shields.io/badge/Overleaf-1F9D55?style=for-the-badge&logo=overleaf&logoColor=white)
@@ -140,30 +165,5 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 2. AI-Based Electricity Billing Forecasting and Consumer Classification Using Behavioral Markers
 
 3. Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing
-
-## Internships
-![Machine Learning Internship](https://img.shields.io/badge/Machine%20Learning-Internship-blue)
-
-**Role:** ML Intern  
-**Organization:** Ezitech Institute Rawalpindi
-
-**Duration:** June 2025 – August 2025  
-
-**Responsibilities / Achievements:**  
-- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.  
-- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.  
-- Built, fine-tuned, and validated machine learning models for real-world applications.  
-- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.  
-
-![Web Development Internship](https://img.shields.io/badge/Web%20Development-Internship-purple)
-
-**Role:** Web Developer Intern  
-**Organization:** EzeeSol Technology Rawalpindi
-
-**Duration:** [June 2024 – August 2024]  
-
-**Responsibilities / Achievements:**  
-- Assisted in front-end and back-end development for web applications.  
-- Gained experience in [e.g., HTML, CSS, JavaScript, PHP].  
 
 
