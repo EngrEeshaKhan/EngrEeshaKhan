@@ -160,7 +160,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Role:** Web Developer Intern  
 **Organization:** EzeeSol Technology Rawalpindi
 
-**Duration:** [Month Year – Month Year]  
+**Duration:** [June 2024 – August 2024]  
 
 **Responsibilities / Achievements:**  
 - Assisted in front-end and back-end development for web applications.  
