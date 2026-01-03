@@ -167,6 +167,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 3. Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing 
 
+## Achievements & Certifications
 
 ## Contact & Links
 
