@@ -164,7 +164,6 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 **Responsibilities / Achievements:**  
 - Assisted in front-end and back-end development for web applications.  
-- Built web tools supporting ML workflows and internal projects.  
-- Gained experience in [mention tech stack, e.g., HTML, CSS, JavaScript, Flask].  
+- Gained experience in [e.g., HTML, CSS, JavaScript, PHP].  
 
 
