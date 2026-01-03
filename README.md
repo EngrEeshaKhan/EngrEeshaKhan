@@ -133,7 +133,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 **Status:** Academic Research Paper
 
 
-## Paid Research Work
+###  Paid Research Work
 
 1. Hybrid Blockchain–AI Framework for Real-Time Semantic Data Integrity and Access Control in 6G-Enabled IoT Networks
 
