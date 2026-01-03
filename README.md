@@ -141,5 +141,30 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 3. Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing
 
+## Internships
+
+### Machine Learning Internship
+**Role:** ML Intern  
+**Organization:** Ezitech Institute Rawalpindi
+**Duration:** June 2025 – August 2025  
+
+**Responsibilities / Achievements:**  
+- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.  
+- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.  
+- Built, fine-tuned, and validated machine learning models for real-world applications.  
+- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.  
+
+---
+
+
+### Web Development Internship 
+**Role:** Web Developer Intern  
+**Organization:** EzeeSol Technology Rawalpindi
+**Duration:** [Month Year – Month Year]  
+
+**Responsibilities / Achievements:**  
+- Assisted in front-end and back-end development for web applications.  
+- Built web tools supporting ML workflows and internal projects.  
+- Gained experience in [mention tech stack, e.g., HTML, CSS, JavaScript, Flask].  
 
 
