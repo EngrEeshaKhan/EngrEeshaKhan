@@ -112,7 +112,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ### Leveraging AI to Predict Problematic Internet Use in Children and Adolescents Through Physical Fitness Indicators
 **Research Area:** Artificial Intelligence, Healthcare Analytics  
 **Methods:** CatBoost, XGBoost, LightGBM, Ensemble Learning  
-**Status:** Draft (IEEE Format)  
+**Status:** Final Academic Research Manuscript (Unpublished);
 
 
 ### Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset
