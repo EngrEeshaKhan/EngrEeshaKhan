@@ -146,6 +146,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 **Role:** ML Intern  
 **Organization:** Ezitech Institute Rawalpindi
+
 **Duration:** June 2025 – August 2025  
 
 **Responsibilities / Achievements:**  
@@ -158,6 +159,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 **Role:** Web Developer Intern  
 **Organization:** EzeeSol Technology Rawalpindi
+
 **Duration:** [Month Year – Month Year]  
 
 **Responsibilities / Achievements:**  
