@@ -124,13 +124,13 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ### Enhancing Automated Essay Scoring: A Comparative Study of Deep Learning and Traditional Models
 **Research Area:** Natural Language Processing, Educational AI  
 **Methods:** Linear Regression, XGBoost, LightGBM, LSTM, BERT  
-**Status:** Draft  
+**Status:** Draft (Academic Research)
 
 
 ### CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation
 **Research Area:** Computer Vision, Medical Imaging  
 **Methods:** YOLO-based Deep Learning, 3D Tomographic Analysis  
-**Status:** Draft  
+**Status:** Academic Research  
 
 
 ## Paid Research Work
