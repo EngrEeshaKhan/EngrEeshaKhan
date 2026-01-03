@@ -167,7 +167,25 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 3. Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing 
 
-## Achievements & Certifications
+## Achievements, Certifications & Competitions
+
+![Kaggle Competitions](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?logo=kaggle&logoColor=white)
+
+- **CZII – CryoET Object Identification:** Ranked **536 / 931**  
+- **ISIC 2024 – Skin Cancer Detection with 3D-TBP:** Ranked **2597 / 2739**  
+- **BirdCLEF 2024:** Ranked **333 / 974**  
+- **Learning Agency Lab – Automated Essay Scoring 2.0:** Ranked **2137 / 2706**  
+
+---
+
+- **Machine Learning Intern** – Ezitech Institute  
+- **Web Development Intern** – EzeeSol Technologies  
+- **Machine Learning & Data Science Intern (Training Program)** – Edureka  
+
+---
+
+
+- **Kaggle Profile:** Active participation in ML, NLP, medical imaging, and audio classification challenges  
 
 ## Contact & Links
 
