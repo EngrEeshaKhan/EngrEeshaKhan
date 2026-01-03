@@ -175,14 +175,13 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 - **ISIC 2024 – Skin Cancer Detection with 3D-TBP:** Ranked **2597 / 2739**  
 - **BirdCLEF 2024:** Ranked **333 / 974**  
 - **Learning Agency Lab – Automated Essay Scoring 2.0:** Ranked **2137 / 2706**  
+![Internship Certification](https://img.shields.io/badge/Internship-Certification-green)
 
----
 
 - **Machine Learning Intern** – Ezitech Institute  
 - **Web Development Intern** – EzeeSol Technologies  
 - **Machine Learning & Data Science Intern (Training Program)** – Edureka  
 
----
 
 
 - **Kaggle Profile:** Active participation in ML, NLP, medical imaging, and audio classification challenges  
