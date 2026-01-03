@@ -128,31 +128,31 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ![Mendeley](https://img.shields.io/badge/Mendeley-D2232A?style=for-the-badge&logo=mendeley&logoColor=white)
 
 
-### Meta-Analysis of Machine Learning Methods for Fruit Quality Prediction
+### Meta-Analysis of Machine Learning Methods for Fruit Quality Prediction (Team of 4)
 **Research Area:** Computer Vision, Machine Learning  
 **Methods:** Support Vector Machines (SVM), Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN)  
 **Status:** Published  
 
 
-### Leveraging AI to Predict Problematic Internet Use in Children and Adolescents Through Physical Fitness Indicators
+### Leveraging AI to Predict Problematic Internet Use in Children and Adolescents Through Physical Fitness Indicators (Team of 3)
 **Research Area:** Artificial Intelligence, Healthcare Analytics  
 **Methods:** CatBoost, XGBoost, LightGBM, Ensemble Learning  
 **Status:** Final Academic Research Manuscript (Unpublished); IEEE Format
 
 
-### Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset
+### Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset (Team of 3)
 **Research Area:** Digital Twin Technology, Biomedical Signal Processing  
 **Methods:** Sparse Identification of Nonlinear Dynamics (SINDy), Physics-Informed Neural Networks (PINN)  
 **Status:** Draft Academic Research
 
 
-### Enhancing Automated Essay Scoring: A Comparative Study of Deep Learning and Traditional Models
+### Enhancing Automated Essay Scoring: A Comparative Study of Deep Learning and Traditional Models (Team of 2)
 **Research Area:** Natural Language Processing, Educational AI  
 **Methods:** Linear Regression, XGBoost, LightGBM, LSTM, BERT  
 **Status:** Academic Research Paper
 
 
-### CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation
+### CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation (Team of 2)
 **Research Area:** Computer Vision, Medical Imaging  
 **Methods:** YOLO-based Deep Learning, 3D Tomographic Analysis  
 **Status:** Academic Research Paper
