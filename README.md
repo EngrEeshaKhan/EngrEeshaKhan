@@ -118,19 +118,19 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 ### Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset
 **Research Area:** Digital Twin Technology, Biomedical Signal Processing  
 **Methods:** Sparse Identification of Nonlinear Dynamics (SINDy), Physics-Informed Neural Networks (PINN)  
-**Status:** Academic Research  
+**Status:** Draft Academic Research
 
 
 ### Enhancing Automated Essay Scoring: A Comparative Study of Deep Learning and Traditional Models
 **Research Area:** Natural Language Processing, Educational AI  
 **Methods:** Linear Regression, XGBoost, LightGBM, LSTM, BERT  
-**Status:** Draft (Academic Research)
+**Status:** Academic Research Paper
 
 
 ### CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation
 **Research Area:** Computer Vision, Medical Imaging  
 **Methods:** YOLO-based Deep Learning, 3D Tomographic Analysis  
-**Status:** Academic Research  
+**Status:** Academic Research Paper
 
 
 ## Paid Research Work
