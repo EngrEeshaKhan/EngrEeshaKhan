@@ -182,7 +182,7 @@ Hi, I’m Eesha Khan, a PEC Level 2 Software Engineer specializing in Machine Le
 
 - **Machine Learning Intern** – Ezitech Institute  
 - **Web Development Intern** – EzeeSol Technologies  
-- **Machine Learning & Data Science Intern (Training Program)** – Edureka
+- **Machine Learning & Data Science Intern (Demo Training Program)** – Edureka
 - 
 
 ![Professional Development](https://img.shields.io/badge/Professional-Development-purple)
