@@ -53,7 +53,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-11557C?style=for-the-badge)
 
 ### RAG Chatbot – Document Question Answering
-**Problem:** Users cannot reliably query and extract information from large PDF documents using standard chatbots.  
+**Problem:** Users cannot reliably query and extract information from large PDF documents using standard chatbots
 **Approach:** Applied Retrieval-Augmented Generation to retrieve and generate relevant document context.  
 **Outcome:** Enabled accurate, context-aware question answering over uploaded documents.  
 **Link:** https://github.com/EngrEeshaKhan/rag-chatbot
