@@ -92,9 +92,9 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 
 ### Automated Essay Scoring (AES) (Team of 2)
 
-**Problem:** Manual essay grading is time-consuming and inconsistent.  
-**Approach:** Used NLP-based models to evaluate essays based on structure, coherence, and semantic quality.  
-**Outcome:** Produced automated scores closely aligned with human evaluation.  
+**Problem:** Manual essay grading is time-consuming and inconsistent
+**Approach:** Used NLP-based models to evaluate essays based on structure, coherence, and semantic quality
+**Outcome:** Produced automated scores closely aligned with human evaluation
 **Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0
 
 ## Internships
@@ -106,10 +106,10 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Duration:** June 2025 – August 2025  
 
 **Responsibilities / Achievements:**  
-- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.  
-- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.  
-- Built, fine-tuned, and validated machine learning models for real-world applications.  
-- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.  
+- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation
+- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy 
+- Built, fine-tuned, and validated machine learning models for real-world applications
+- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models
 
 ![Web Development Internship](https://img.shields.io/badge/Web%20Development-Internship-purple)
 
