@@ -67,24 +67,24 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ![ML](https://img.shields.io/badge/Machine%20Learning-11557C?style=for-the-badge)
 
 ### Child Mind Institute – Problematic Internet Use Prediction (Team of 3)
-**Problem:** Early indicators of problematic internet use in children are difficult to detect manually.  
-**Approach:** Built a predictive model using behavioral and physical activity data.  
-**Outcome:** Supported early identification and intervention for healthier digital habits.  
+**Problem:** Early indicators of problematic internet use in children are difficult to detect manually
+**Approach:** Built a predictive model using behavioral and physical activity data
+**Outcome:** Supported early identification and intervention for healthier digital habits
 **Link:** https://github.com/EngrEeshaKhan/Child-Mind-Institute-Problematic-Internet-Use
 
 
 ### CZII CryoET – Protein Complex Identification (Team of 2)
 
-**Problem:** Manual identification of protein complexes in cryo-electron tomography data is slow and inefficient.  
-**Approach:** Applied deep learning models to classify protein structures from 3D tomographic data.  
-**Outcome:** Enabled scalable and automated biological structure analysis.  
+**Problem:** Manual identification of protein complexes in cryo-electron tomography data is slow and inefficient
+**Approach:** Applied deep learning models to classify protein structures from 3D tomographic data
+**Outcome:** Enabled scalable and automated biological structure analysis
 **Link:** https://github.com/EngrEeshaKhan/CZII-CryoET-Object-Identification
 
 ### Melanoma Detection Using Hybrid Features (Team of 2)
 
-**Problem:** Early melanoma detection from skin images is challenging due to subtle visual differences.  
-**Approach:** Applied DIP and handcrafted feature extraction followed by ML classification.  
-**Outcome:** Improved accuracy and reliability of melanoma detection.  
+**Problem:** Early melanoma detection from skin images is challenging due to subtle visual differences
+**Approach:** Applied DIP and handcrafted feature extraction followed by ML classification
+**Outcome:** Improved accuracy and reliability of melanoma detection
 **Link:** https://github.com/EngrEeshaKhan/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models
 
 
