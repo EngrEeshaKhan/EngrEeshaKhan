@@ -192,7 +192,6 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ## Contact & Links
 
 - **Email:** [engr.eeshakhan@gmail.com](mailto:engr.eeshakhan@gmail.com)
-- **LinkedIn:** To be confirmed...
 - **GitHub:** [github.com/EngrEeshaKhan](https://github.com/EngrEeshaKhan)
 - **Kaggle:** [kaggle.com/eeshakhanzadi](https://www.kaggle.com/eeshakhanzadi)
 
