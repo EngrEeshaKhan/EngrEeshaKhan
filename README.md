@@ -57,7 +57,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Problem:** Writing professional outreach emails is time-consuming for job seekers and freelancers.
 **Approach:** Used a large language model to generate structured cold emails from user input.
 **Outcome:** Reduced email drafting time while improving message clarity and professionalism.
-**Link:** https://github.com/EngrEeshaKhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
+**Link:** https://github.com/EngrEeshaKhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach.
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-11557C?style=for-the-badge)
 
