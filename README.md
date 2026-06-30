@@ -11,7 +11,6 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<img width="52" height="65" alt="hdshb" src="https://github.com/user-attachments/assets/84fcd0d3-9f13-4c67-8d1b-de7d57a07dd6" />
 
 
 ### Machine Learning & AI
