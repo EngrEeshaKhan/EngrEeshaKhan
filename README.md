@@ -63,7 +63,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 
 ### Child Mind Institute – Problematic Internet Use Prediction (Team of 3)
 **Problem:** Early indicators of problematic internet use in children are difficult to detect manually.
-**Approach:** Built a predictive model using behavioral and physical activity data
+**Approach:** Built a predictive model using behavioral and physical activity data.
 **Outcome:** Supported early identification and intervention for healthier digital habits
 **Link:** https://github.com/EngrEeshaKhan/Child-Mind-Institute-Problematic-Internet-Use
 
