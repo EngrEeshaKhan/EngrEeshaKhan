@@ -71,7 +71,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ### CZII CryoET – Protein Complex Identification (Team of 2)
 
 **Problem:** Manual identification of protein complexes in cryo-electron tomography data is slow and inefficient.
-**Approach:** Applied deep learning models to classify protein structures from 3D tomographic data
+**Approach:** Applied deep learning models to classify protein structures from 3D tomographic data.
 **Outcome:** Enabled scalable and automated biological structure analysis
 **Link:** https://github.com/EngrEeshaKhan/CZII-CryoET-Object-Identification
 
