@@ -80,7 +80,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Problem:** Early melanoma detection from skin images is challenging due to subtle visual differences.
 **Approach:** Applied DIP and handcrafted feature extraction followed by ML classification.
 **Outcome:** Improved accuracy and reliability of melanoma detection.
-**Link:** https://github.com/EngrEeshaKhan/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models
+**Link:** https://github.com/EngrEeshaKhan/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models.
 
 
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-11557C?style=for-the-badge)
