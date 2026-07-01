@@ -102,7 +102,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 
 **Responsibilities / Achievements:**  
 - Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.
-- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy 
+- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.
 - Built, fine-tuned, and validated machine learning models for real-world applications.
 - Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.
 
