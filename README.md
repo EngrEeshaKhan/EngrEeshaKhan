@@ -160,7 +160,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 
 2. AI-Based Electricity Billing Forecasting and Consumer Classification Using Behavioral Markers.
 
-3. Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing 
+3. Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing.
 
 ## Achievements, Certifications & Competitions
 
