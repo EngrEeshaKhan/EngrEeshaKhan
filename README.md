@@ -182,7 +182,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 
 ![Professional Development](https://img.shields.io/badge/Professional-Development-purple)
 
-- **Kaggle Profile:** Active participation in ML, NLP, medical imaging, and audio classification challenges.
+- **Kaggle Profile:** Active participation in ML, NLP, medical imaging, and audio classification challenges
 
 ## Contact & Links
 
