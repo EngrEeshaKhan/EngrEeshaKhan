@@ -98,7 +98,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Role:** AI Engineer  
 **Organization:** National Telecommunication Corporation (NTC)  
 
-**Duration:** June 2025 – August 2025  
+**Duration:** April 2026 – August 2026  
 
 **Responsibilities / Achievements:**  
 - Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.
