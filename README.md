@@ -93,7 +93,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0.
 
 ## Training-Ship
-![Machine Learning Internship](https://img.shields.io/badge/Machine%20Learning-Internship-blue)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-blue)
 
 **Role:** ML Intern  
 **Organization:** Ezitech Institute Rawalpindi
