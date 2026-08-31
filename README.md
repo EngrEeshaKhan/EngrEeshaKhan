@@ -102,7 +102,9 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 
 **Responsibilities / Achievements:**  
 -Developed AI and RAG solutions for policies, advisories, tenders, and regulatory documents.
+
 -Built document pipelines for PDF, DOCX, and Excel processing, chunking, embeddings, and retrieval.
+
 -Developed policy, advisory, and tender comparison/analysis workflows using AI.
 Built and fine-tuned Llama 3.2 using LoRA/QLoRA for domain-specific tasks.
 Developed the AI-powered PTA CTDISR Compliance Audit System for automated audit analysis and recommendations.
