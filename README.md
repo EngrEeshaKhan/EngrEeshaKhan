@@ -96,7 +96,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-TrainingShip-green)
 
 **Role:** AI Engineer  
-**Organization:** Ezitech Institute Rawalpindi
+**Organization:** National Telecommunication Corporation (NTC)  
 
 **Duration:** June 2025 – August 2025  
 
