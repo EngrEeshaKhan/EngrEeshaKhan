@@ -101,10 +101,14 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Duration:** April 2026 – August 2026  
 
 **Responsibilities / Achievements:**  
-- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.
-- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.
-- Built, fine-tuned, and validated machine learning models for real-world applications.
-- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.
+-Developed AI and RAG solutions for policies, advisories, tenders, and regulatory documents.
+-Built document pipelines for PDF, DOCX, and Excel processing, chunking, embeddings, and retrieval.
+-Developed policy, advisory, and tender comparison/analysis workflows using AI.
+Built and fine-tuned Llama 3.2 using LoRA/QLoRA for domain-specific tasks.
+Developed the AI-powered PTA CTDISR Compliance Audit System for automated audit analysis and recommendations.
+Built FastAPI APIs and a React frontend for AI applications and workflows.
+Implemented vector search, RAG retrieval, AI inference, and prompt engineering.
+Containerized applications using Docker and Docker Compose.
 
 ## Internships
 ![Machine Learning Internship](https://img.shields.io/badge/Machine%20Learning-Internship-blue)
