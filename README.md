@@ -175,9 +175,9 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ![Internship Certification](https://img.shields.io/badge/Internship-Certification-green)
 
 
+- **AI Engineer Training-ship**-National Telecommunication Corporation
 - **Machine Learning Intern** – Ezitech Institute  
 - **Web Development Intern** – EzeeSol Technologies
-- **AI Engineer Training-ship**-National Telecommunication Corporation
 - **Machine Learning & Data Science Intern (Demo Training Program)** – Edureka
 
 
