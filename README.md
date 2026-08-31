@@ -92,6 +92,20 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Outcome:** Produced automated scores closely aligned with human evaluation.
 **Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0.
 
+## Training-Ship
+![Machine Learning Internship](https://img.shields.io/badge/Machine%20Learning-Internship-blue)
+
+**Role:** ML Intern  
+**Organization:** Ezitech Institute Rawalpindi
+
+**Duration:** June 2025 – August 2025  
+
+**Responsibilities / Achievements:**  
+- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.
+- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.
+- Built, fine-tuned, and validated machine learning models for real-world applications.
+- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.
+
 ## Internships
 ![Machine Learning Internship](https://img.shields.io/badge/Machine%20Learning-Internship-blue)
 
