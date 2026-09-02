@@ -20,7 +20,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00599C?style=for-the-badge)
 
-**Deep Learning & NLP:** BERT, DeBERTa, CNNs, RNNs  
+**Deep Learning & NLP:** BERT, DeBERTa, CNNs, RNNs
 **LLMs & GenAI:** LangChain, Ollama, Groq API
 
 ### Data & Computer Vision
