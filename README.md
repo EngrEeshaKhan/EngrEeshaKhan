@@ -91,7 +91,7 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 **Problem:** Manual essay grading is time-consuming and inconsistent.
 **Approach:** Used NLP-based models to evaluate essays based on structure, coherence, and semantic quality.
 **Outcome:** Produced automated scores closely aligned with human evaluation.
-**Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0.
+**Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0
 
 ## Training-Ship
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-TrainingShip-green)
