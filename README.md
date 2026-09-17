@@ -221,6 +221,6 @@ Link: https://github.com/EngrEeshaKhan/AI-Powered_PTA-CTDISR-Compliance-Audit-Sy
 - **Email:** [engr.eeshakhan@gmail.com](mailto:engr.eeshakhan@gmail.com)
 - **GitHub:** [github.com/EngrEeshaKhan](https://github.com/EngrEeshaKhan)
 - **Kaggle:** [kaggle.com/eeshakhanzadi](https://www.kaggle.com/eeshakhanzadi)
-- **LinkedIn:** [linkedin.com/in/engr-eesha-khan-943ba93a5](linkedin.com/in/engr-eesha-khan-943ba93a5)
+- **LinkedIn:** [linkedin.com/in/engr-eesha-khan-943ba93a5](https://www.linkedin.com/in/engr-eesha-khan-943ba93a5/)
 
 
