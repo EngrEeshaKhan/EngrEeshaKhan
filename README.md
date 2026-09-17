@@ -48,6 +48,18 @@ Hi, I’m Engr. Eesha Khan, a PEC Level 2 Software Engineer specializing in Mach
 ## Projects
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-11557C?style=for-the-badge)
 
+### AI-Powered PTA CTDISR Compliance Audit System
+
+**Problem:** Manual telecom regulatory compliance auditing requires auditors to review large volumes of policies, advisories, regulatory documents, and asset records to determine compliance with CTDISR controls.
+
+**Approach:** Developed an AI-powered compliance auditing platform using Retrieval-Augmented Generation (RAG). The system processes PDF, DOCX, and Excel documents through parsing, chunking, embedding, and FAISS-based vector search. A fine-tuned Llama model uses retrieved regulatory evidence to generate PTA responses, recommendations, and action items for selected CTDISR controls.
+
+**Technology:** Python, FastAPI, React, FAISS, Sentence Transformers, Llama 3.2, LoRA/QLoRA, Docker.
+
+**Outcome:** Developed an end-to-end compliance audit workflow that enables administrators to manage regulatory knowledge sources and auditors to run AI-assisted CTDISR control audits, review generated findings, add NTC comments, and manage audit reports.
+
+Link: https://github.com/EngrEeshaKhan/AI-Powered_PTA-CTDISR-Compliance-Audit-System
+
 ### RAG Chatbot – Document Question Answering
 **Problem:** Users cannot reliably query and extract information from large PDF documents using standard chatbots.
 **Approach:** Applied Retrieval-Augmented Generation to retrieve and generate relevant document context.
