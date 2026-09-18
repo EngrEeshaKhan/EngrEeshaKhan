@@ -111,7 +111,7 @@ Link: https://github.com/EngrEeshaKhan/AI-Powered_PTA-CTDISR-Compliance-Audit-Sy
 **Role:** AI Engineer  
 **Organization:** National Telecommunication Corporation (NTC)  
 
-**Duration:** April 2026 – August 2026  
+**Duration:** April 2026 – September 2026  
 
 **Responsibilities / Achievements:**  
 -Developed AI and RAG solutions for policies, advisories, tenders, and regulatory documents.<br>
