@@ -105,6 +105,21 @@ Link: https://github.com/EngrEeshaKhan/AI-Powered_PTA-CTDISR-Compliance-Audit-Sy
 **Outcome:** Produced automated scores closely aligned with human evaluation.
 **Link:** https://github.com/EngrEeshaKhan/Learning-Agency-Lab---Automated-Essay-Scoring-2.0
 
+## IBS&S
+![AI Full Stack Engineer](https://img.shields.io/badge/AI%20Full%20Stack%20Engineer-IBS%26S-blue)
+
+**Role:** AI Full Stack Engineer  
+**Organization:** IBS&S (Multinational Company)  
+
+**Duration:** September 2026 – Present  
+
+**Responsibilities / Achievements:**  
+-Developing full-stack AI applications integrating LLMs, AI models, and APIs.<br>
+-Building scalable backend services and interactive frontend interfaces for AI-powered solutions.<br>
+-Integrating AI models, REST APIs, and databases into modern web applications.<br>
+-Developing AI-driven features and automated workflows for intelligent software solutions.<br>
+-Working across frontend, backend, AI integration, and application deployment.
+
 ## Training-Ship
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-TrainingShip-green)
 
